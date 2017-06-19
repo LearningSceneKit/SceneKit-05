@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		83378DC41EF7706000F5D65F /* box2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 83378DC31EF7706000F5D65F /* box2.jpg */; };
 		8350A5441EF76C8500CF1FEA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8350A5431EF76C8500CF1FEA /* main.m */; };
 		8350A5471EF76C8500CF1FEA /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8350A5461EF76C8500CF1FEA /* AppDelegate.m */; };
 		8350A54A1EF76C8500CF1FEA /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8350A5491EF76C8500CF1FEA /* ViewController.m */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		83378DC31EF7706000F5D65F /* box2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = box2.jpg; path = ../../../../Downloads/box2.jpg; sourceTree = "<group>"; };
 		8350A53F1EF76C8500CF1FEA /* SceneKit-05.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SceneKit-05.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8350A5431EF76C8500CF1FEA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8350A5451EF76C8500CF1FEA /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -117,6 +119,7 @@
 		8350A5421EF76C8500CF1FEA /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				83378DC31EF7706000F5D65F /* box2.jpg */,
 				8350A5431EF76C8500CF1FEA /* main.m */,
 			);
 			name = "Supporting Files";
@@ -248,6 +251,7 @@
 			files = (
 				8350A5521EF76C8500CF1FEA /* LaunchScreen.storyboard in Resources */,
 				8350A54F1EF76C8500CF1FEA /* Assets.xcassets in Resources */,
+				83378DC41EF7706000F5D65F /* box2.jpg in Resources */,
 				8350A54D1EF76C8500CF1FEA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -507,6 +511,7 @@
 				8350A56E1EF76C8500CF1FEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8350A56F1EF76C8500CF1FEA /* Build configuration list for PBXNativeTarget "SceneKit-05Tests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +520,7 @@
 				8350A5711EF76C8500CF1FEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8350A5721EF76C8500CF1FEA /* Build configuration list for PBXNativeTarget "SceneKit-05UITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +529,7 @@
 				8350A5741EF76C8500CF1FEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
